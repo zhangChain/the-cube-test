@@ -1,0 +1,1 @@
+FROM registry.k8s.io/the-cube-test:v1.0.0
