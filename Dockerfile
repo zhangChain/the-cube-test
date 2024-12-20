@@ -1,5 +1,5 @@
 # 使用阿里云镜像仓库的基础镜像
-FROM registry.cn-hangzhou.aliyuncs.com/acs-sample/centos-nginx:latest
+FROM nginx:latest
  
 # 设置工作目录
 WORKDIR /usr/share/nginx/html
