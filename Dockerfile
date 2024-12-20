@@ -8,7 +8,7 @@ WORKDIR /usr/share/nginx/html
 COPY . /usr/share/nginx/html
  
 # 暴露80端口
-EXPOSE 80
+EXPOSE 8095
  
 # 启动Nginx服务器
 CMD ["nginx", "-g", "daemon off;"]
