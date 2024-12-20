@@ -1,1 +1,1 @@
-FROM crpi-6dkty7f8q1w6akab.cn-shenzhen.personal.cr.aliyuncs.com/ali-mofang-test/mofang:latest
+FROM nginx:latest
