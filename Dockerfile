@@ -1,1 +1,2 @@
-From nginx:latest;
+From nginx:latest
+WORKDIR ./the-cube-test
